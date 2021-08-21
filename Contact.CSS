@@ -1,7 +1,7 @@
 .ContactCSS {
 
 
-background-color: papayawhip;
+background-color:tan;
 
 
 margin-left: auto;
@@ -11,4 +11,11 @@ h1{
 
     color: red;
     
+}
+
+ul{
+
+
+    color:papayawhip;
+
 }
