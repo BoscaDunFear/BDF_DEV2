@@ -1,6 +1,6 @@
 .main {
 
-    color:red;
+    background-color:red;
 
     margin-left: auto;
     margin-right: auto;
@@ -15,4 +15,10 @@ p {
 
     color: green
 
+}
+
+body
+{
+    min-height: 100vh;
+    background: linear-gradient(#A14664,#681818);
 }
