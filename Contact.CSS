@@ -1,9 +1,5 @@
 .ContactCSS {
 
-
-background-color:tan;
-
-
 margin-left: auto;
 margin-right: auto;
 }
@@ -24,4 +20,9 @@ ul{
 
     color:papayawhip;
 
+}
+
+body{
+min-height: 100vh;
+background: linear-gradient(#FFD919,#66CC00)
 }
