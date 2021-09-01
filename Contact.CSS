@@ -1,8 +1,16 @@
 .ContactCSS {
 
+
 margin-left: auto;
 margin-right: auto;
 }
+
+shell{
+    width: 970px;
+    margin: 0 auto;
+    min-width: 970px;
+}
+
 h1{
 
     color: red;
@@ -11,7 +19,7 @@ h1{
 
 p {
 
-    color: powderblue;
+    color: rgb(24, 2, 85);
 
 }
 
@@ -24,5 +32,5 @@ ul{
 
 body{
 min-height: 100vh;
-background: linear-gradient(#FFD919,#66CC00)
+background: linear-gradient(#89e1e4,#3a6296)
 }
