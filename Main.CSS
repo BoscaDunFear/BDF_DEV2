@@ -8,7 +8,7 @@
 }
 
 h1 {
-    color:blue;
+    color:rgb(0, 183, 255);
     font-size: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -34,3 +34,33 @@ body
     min-height: 100vh;
     background: linear-gradient(#1d08dd,#531ee2);
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+  }
+
+  input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+  
+  /* When the input field gets focus, change its width to 100% */
+  input[type=text]:focus {
+    width: 30%;
+  }
+
+  header{
+
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: #b6b6b6; /* green background */
+    color: white; /* white text color */  padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: #51ff00; /* green background */
+    color: white; /* white text color */
+
+  }
