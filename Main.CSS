@@ -1,10 +1,23 @@
-.main {
+html,body {
+    height: 100%;
+    margin:0;
+}
 
-    background-color:rgb(15, 24, 105);
+.section1 {
+margin-left: auto;
+margin-right: auto;
+background-color: #8a0000
+}
 
-    margin-left: auto;
-    margin-right: auto;
+.box {
+    
+    background-color: #1f27b7;
+    height: 100%;
 
+}
+
+body {
+background-color: #007C99;
 }
 
 h1 {
@@ -19,7 +32,7 @@ p {
 font-size: 14px;
 letter-spacing: 2px;
 word-spacing: 2px;
-color: #000000;
+color: #434bdf;
 font-weight: 400;
 text-decoration: none;
 font-style: normal;
@@ -29,12 +42,6 @@ text-transform: none;
 
 }
 
-body
-{
-    min-height: 100vh;
-    background: linear-gradient(#1d08dd,#531ee2);
-}
-
 
 
 ul{
@@ -42,18 +49,6 @@ ul{
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }    
-body
-{
-    min-height: 100vh;
-    background: linear-gradient(#1d08dd,#531ee2);
-}.main {
-
-    background-color:rgb(15, 24, 105);
-
-    margin-left: auto;
-    margin-right: auto;
-
-}
 
 h1 {
     color:rgb(204, 2, 255);
@@ -74,11 +69,4 @@ font-style: normal;
 font-variant: normal;
 text-transform: none;
     color: rgb(8, 255, 8)
-
-}
-
-body
-{
-    min-height: 100vh;
-    background: linear-gradient(#1d08dd,#531ee2);
 }
