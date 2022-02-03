@@ -1,0 +1,33 @@
+body {
+    /* Old browsers */
+    background: #141E30;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(-45deg, #35577D, #141E30);
+    margin: 0;
+    padding: 0;
+  }
+
+h2 {
+    color: 	rgb(247, 92, 54);
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: 100;
+    text-align: center;
+}
+
+h1{
+    color: 	white;
+    font-size: 50px;
+    font-family:// include font here // ;
+    font-weight: 100;
+}
+
+.logo {
+-webkit-box-shadow: 5px 0px 5px 0px rgba (0,0, 50, 0.97);
+-moz-box-shadow: 5 px 0px 5px 0px rgba(0, 0, 50, 0.97);
+box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+float: left;
+width: 50px;
+}

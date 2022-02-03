@@ -10,7 +10,7 @@ background-color: #8a0000
 }
 
 .box {
-    
+    border: 3px solid rgb(0, 0, 0);
     background-color: #1f27b7;
     height: 100%;
 
